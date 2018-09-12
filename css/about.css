@@ -29,5 +29,7 @@
     width: 30vw;
     height: auto;
     float: right;
+    margin-left: 1%;
+    margin-bottom: 1%;
     border-radius: 10px;
 }

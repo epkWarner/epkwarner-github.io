@@ -1,5 +1,5 @@
 .carousel-inner h5{
-    color: var(--bronze);
+    color: black;
     background-color: aliceblue;
     opacity: .9;
     margin: 0;
@@ -34,6 +34,7 @@
     text-align: center;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    color: black;
 }
 #projects{
     height: 104vh;
