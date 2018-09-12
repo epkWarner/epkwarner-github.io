@@ -1,0 +1,57 @@
+.carousel-inner h5{
+    color: var(--bronze);
+    background-color: aliceblue;
+    opacity: .9;
+    margin: 0;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.carousel-inner p{
+    color: black;
+    font-weight: bolder;
+    background-color: beige;
+    opacity: .9;
+    margin: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#contProjects{
+    font-family: var(--font4);
+    background-color: transparent;
+}
+.carousel-item img{
+    height: 80vh;
+    width: auto;
+    max-width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+#projectsH1{
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#projects{
+    height: 104vh;
+    width: 100%;
+    background-color: var(--blue);
+    padding: 1% 1% 1% 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+.container{
+    height: 100;
+}
+.carousel-item{
+    width: 80vw;
+    background:lightgray;
+    border-radius: 10px;
+}
+#techStuff{
+    padding-top: 7vh;
+    padding-bottom: 7vh;
+}

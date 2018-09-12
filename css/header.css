@@ -1,0 +1,57 @@
+.splash{
+    background: var(--jugular)
+}
+.myJumbo{
+    text-align: center;
+    background: url(../assets/img/book-computer-design-326424.jpg) no-repeat;
+    background-size: cover;
+    color: var(--mariana);
+    height: 88vh;
+    border-radius: 10px;
+}
+.myJumbo p{
+    font-size: 14pt;
+    background-color: ivory;
+    opacity: .75;
+    border-radius: 10px;
+}
+.myJumbo h1{
+    font-family: var(--font1);
+    color: var(--typeGreen);
+    background-color: black;
+    width: fit-content;
+    padding: 1% 6% 1% 10%;
+    margin-left: auto;
+    margin-right: auto; 
+    opacity: .9;
+    border-radius: 10px;
+    font-size: 28pt;
+}
+.container{
+    height: 98%;
+}
+#blinkinator{
+    font-size: 20pt;
+}
+.divIcon{
+    font-size: 20px;
+}
+butHead{
+    border-radius: 10px;
+}
+#initials{
+    line-height: .69;
+    font-size: 18pt;
+}
+#ep{
+    color: var(--color);
+    font-family: var(--font5)
+}
+#kw{
+    color: var(--blue);
+    font-family: var(--font5)
+}
+#e{
+    display: inline-block;
+    transform: scaleX(-1);
+}

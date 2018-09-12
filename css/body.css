@@ -1,0 +1,6 @@
+body{
+    background: lightgray;
+    padding: 1%;
+    font-family: var(--font2);
+    font-weight: bold;
+}

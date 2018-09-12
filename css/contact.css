@@ -1,0 +1,20 @@
+#contact{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6% 1% 1% 1%;
+    background-color: beige;
+    border-radius: 10px;
+    margin-top: 1%;
+    height: 100vh;
+}
+#contact form{
+    margin-left: auto;
+    margin-right: auto;
+}
+.iconContact{
+    text-align: center;
+    color: black;
+}
+.iconContact a{
+    color: black;
+}

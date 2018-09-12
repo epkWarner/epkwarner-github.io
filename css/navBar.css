@@ -1,0 +1,16 @@
+.navbar a:hover{
+    background: dimgray;
+    color: white;
+}
+.navbar a{
+    color: white;
+}
+.navbar{
+    height: 7vh;
+    border-radius: 10px;
+    margin-bottom: 1%;
+    opacity: .85;
+}
+.navbar .navbar-toggler{
+    border: none;
+}
